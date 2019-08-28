@@ -1,0 +1,39 @@
+code {
+  color: #666;
+  font: 14px/24px;
+}
+
+div {
+  width: 100px;
+  height: 70px;
+  display: block;
+  background: #eaeaed;
+  text-align: center;
+  padding-top: 38px;
+}
+
+
+.offset {
+  border: 2px dashed #9799a7;
+  height: 100px;
+  background: none;
+  padding: 0;
+}
+
+.offset code {
+  display: block;
+  background: #2db34a;
+  position: relative;
+  text-align: center;
+  top: 20px;
+  left: 20px;
+  padding-top: 26px;
+  height: 74px;
+  color: #fff;
+  width: 100px;
+}
+
+div,
+.offset code {
+  border-radius: 6px;
+}
