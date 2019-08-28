@@ -30,3 +30,8 @@ div {
   color: #fff;
   width: 100px;
 }
+
+div,
+.offset code {
+  border-radius: 6px;
+}
