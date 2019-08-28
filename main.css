@@ -17,3 +17,11 @@ div {
   background: none;
   padding: 0;
 }
+
+.offset code {
+  display: block;
+  background: #2db34a;
+  position: relative;
+  text-align: center;
+  top: 20px;
+}
