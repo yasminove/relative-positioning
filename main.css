@@ -24,4 +24,9 @@ div {
   position: relative;
   text-align: center;
   top: 20px;
+  left: 20px;
+  padding-top: 26px;
+  height: 74px;
+  color: #fff;
+  width: 100px;
 }
